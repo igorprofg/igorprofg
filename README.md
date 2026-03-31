@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Igor Alessandretti!
-- 🔭 Hoje trabalho na Compass - UOL, como engenheiro de dados.
+- 🔭 concluí meu estágio na empresa Compass - Uol.
 - 🌱 Estudando Python como linguagem atualmente.
 - 📫 Contate-me no email: igoralessandretti345@gmail.com
-- 📖 Cursando o 4° semestre de Análise e Desenvolvimento de Sistemas | UPF - Passo Fundo RS
+- 📖 Cursando o 5° semestre de Análise e Desenvolvimento de Sistemas | UPF - Passo Fundo RS
 
 <div>
   <a href="https://github.com/igorprofg">
